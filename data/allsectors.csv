@@ -1,0 +1,102 @@
+﻿name,company,seriesColor,ticker,radialColumn,change,xAxisColumn,yAxisColumn
+John J. Ferriola ,Nucor ,Basic Materials,NUE,15.559469,0.29,147,25067
+Randall L. Stephenson ,AT&T ,Communication Services,T,25.600312,0.01,304,170756
+Hans Vestberg ,Verizon Communications ,Communication Services,VZ,22.206086,n/a,198,130863
+Thomas M. Rutledge ,Charter Communications ,Communication Services,CHTR,8.157264,0.06,147,43634
+Robert A. Iger ,Walt Disney ,Consumer Cyclical,DIS,65.645214,0.81,1424,59434
+Michelle Gass ,Kohl's ,Consumer Cyclical,KSS,12.340445,n/a,1115,20229
+Kevin R. Johnson ,Starbucks ,Consumer Cyclical,SBUX,13.38248,n/a,1049,24720
+Raymond E. Scott ,Lear ,Consumer Cyclical,LEA,9.936305,n/a,987,21149
+Arnold W. Donald ,Carnival ,Consumer Cyclical,CCL,13.506884,0.04,813,18881
+James R. Murdoch ,Twenty-First Century Fox ,Consumer Cyclical,FOXA,44.415365,1.25,741,30400
+Marc R. Bitzer ,Whirlpool ,Consumer Cyclical,WHR,11.657583,n/a,578,21037
+Mark G. Parker ,Nike ,Consumer Cyclical,NKE,9.46746,-0.32,379,36397
+James P. Hackett ,Ford ,Consumer Cyclical,F,17.752835,n/a,276,160338
+Michael Jackson ,AutoNation ,Consumer Cyclical,AN,12.472579,0.02,222,21413
+Richard Beckwitt ,Lennar ,Consumer Cyclical,LEN,17.583466,n/a,199,20572
+Roger S. Penske ,Penske Automotive Group ,Consumer Cyclical,PAG,6.824351,0,168,22785
+Paul D. Donahue ,Genuine Parts ,Consumer Cyclical,GPC,4.46983,0.2,138,18735
+James R. Quincey ,Coca Cola ,Consumer Defensive,KO,16.384123,n/a,1016,31856
+Andre Calantzopoulos ,Philip Morris International ,Consumer Defensive,PM,15.648637,-0.04,843,29625
+Ramon Laguarta ,PepsiCo ,Consumer Defensive,PEP,9.694978,n/a,545,64661
+Dirk Van de Put ,Mondelez International ,Consumer Defensive,MDLZ,14.9699,n/a,489,25938
+Stefano Pessina ,Walgreens Boots Alliance ,Consumer Defensive,WBA,13.54226,-0.08,435,131537
+Juan Luciano ,Archer Daniels Midland ,Consumer Defensive,ADM,19.603616,0.24,385,64341
+Thomas J. Falk ,Kimberly Clark ,Consumer Defensive,KMB,13.010083,-0.03,355,18486
+David S. Taylor ,Procter & Gamble ,Consumer Defensive,PG,17.354256,-0.04,287,66832
+Thomas P. Hayes ,Tyson Foods ,Consumer Defensive,TSN,9.03515,n/a,256,40052
+W. Craig Jelinek ,Costco Wholesale ,Consumer Defensive,COST,7.300625,0.12,191,141576
+Thomas L. Bene ,Sysco ,Consumer Defensive,SYY,8.770339,n/a,127,58727
+Pietro Satriano ,US Foods Holding ,Consumer Defensive,USFD,8.607146,0.06,110,24175
+George L. Holm ,Performance Food Group ,Consumer Defensive,PFGC,5.160286,-0.21,73,17620
+Gary R. Heminger ,Marathon Petroleum ,Energy,MPC,18.874797,0.01,714,97102
+Dion J. Weisler ,HP ,Energy,HPQ,19.215534,0.3,241,58472
+Paal Kibsgaard ,Schlumberger ,Energy,SLB,15.185123,-0.18,216,32815
+Lorenzo Simonelli ,Baker Hughes ,Energy,BHGE,15.590514,n/a,207,22877
+Joseph W. Gorder ,Valero Energy ,Energy,VLO,17.405377,-0.05,122,111407
+Vicki Hollub ,Occidental Petroleum ,Energy,OXY,14.105693,0.11,114,18934
+Greg Garland ,Phillips 66 ,Energy,PSX,19.278335,0.11,98,114217
+George J. Damiris ,HollyFrontier ,Energy,HFC,11.350368,0.15,82,17715
+Daniel P. Amos ,Aflac ,Financial Services,AFL,15.368527,-0.06,332,21758
+Stephen J. Squeri ,American Express ,Financial Services,AXP,17.340684,n/a,306,36986
+Timothy J. Sloan ,Wells Fargo ,Financial Services,WFC,18.419306,0.05,283,84696
+Charles F. Lowrey ,Prudential Financial ,Financial Services,PRU,9.695633,n/a,256,62992
+Brian T. Moynihan ,Bank of America ,Financial Services,BAC,22.434351,0.05,247,88694
+Andrew Cecere ,US Bancorp ,Financial Services,USB,11.068003,n/a,230,20813
+Susan P. Griffith ,Progressive ,Financial Services,PGR,14.172925,0.53,225,31979
+David M. Solomon ,Goldman Sachs ,Financial Services,GS,20.662835,n/a,151,35942
+Alfred Kelly ,Visa ,Financial Services,V,19.493946,n/a,147,20609
+Warren E. Buffett ,Berkshire Hathaway ,Financial Services,BRK.A,0.388968,-1.8,7,247537
+Michael L. Corbat ,Citigroup ,Financials,C,24.179166,0.36,486,65500
+Richard D. Fairbank ,Capital One Financial ,Financials,COF,17.328902,0.07,258,22220
+Michael F. Neidorff ,Centene ,Healthcare,CNC,26.122414,0.03,396,60116
+R. Milton Johnson ,HCA Healthcare ,Healthcare,HCA,20.072898,0.46,383,46677
+Miles D. White ,Abbott Laboratories ,Healthcare,ABT,22.872393,0.46,301,30578
+David M. Cordani ,Cigna ,Healthcare,CI,18.944045,0.08,298,48650
+Ron Rittenmeyer ,Tenet Healthcare ,Healthcare,THC,14.984021,n/a,277,18313
+Alex Gorsky ,Johnson & Johnson ,Healthcare,JNJ,20.097572,-0.12,268,81581
+Ian Read ,Pfizer ,Healthcare,PFE,19.549213,-0.25,244,53647
+Joseph M. Zubretsky ,Molina Healthcare ,Healthcare,MOH,15.21977,n/a,232,18890
+Bruce D. Broussard ,Humana ,Healthcare,HUM,16.312517,0.1,231,56912
+Michael C. Kaufmann ,Cardinal Health ,Healthcare,CAH,8.42358,n/a,221,136809
+Thomas P. Joyce Jr ,Danaher ,Healthcare,DHR,15.361041,0.04,209,19893
+Steven H. Collis ,AmerisourceBergen ,Healthcare,ABC,11.514115,0.16,203,167940
+Gail K. Boudreaux ,Anthem ,Healthcare,ANTM,14.184276,n/a,196,92105
+David A. Ricks ,Eli Lilly ,Healthcare,LLY,15.701,0.08,189,24556
+John F. Milligan ,Gilead Sciences ,Healthcare,GILD,16.774183,0.09,158,22127
+Richard A. Gonzalez ,AbbVie ,Healthcare,ABBV,20.808664,0.09,143,32753
+Ronald E. Armstrong ,PACCAR ,Industrials,PCAR,7.499601,n/a,n/a,23496
+Jonas Prising ,ManpowerGroup ,Industrials,MAN,11.44401,-0.05,2508,21991
+Dennis Polk ,Synnex ,Industrials,SNX,7.174297,n/a,1562,20054
+H. Lawrence Culp Jr.,General Electric ,Industrials,GE,15.312165,n/a,345,121615
+Frederick W. Smith ,Fedex ,Industrials,FDX,16.665398,0.07,333,65450
+George R. Oliver ,Johnson Controls International ,Industrials,JCI,15.393868,n/a,310,31400
+Michael F. Roman ,3M ,Industrials,MMM,9.843753,n/a,302,32765
+Darius Adamczyk ,Honeywell International ,Industrials,HON,18.651522,n/a,288,41802
+David P. Abney ,United Parcel Service ,Industrials,UPS,13.749158,0.12,272,71861
+Craig Arnold ,Eaton ,Industrials,ETN,12.465976,0.1,264,21609
+Gregory J. Hayes ,United Technologies ,Industrials,UTX,17.588971,0.12,257,66501
+Samuel R. Allen ,Deere ,Industrials,DE,18.239151,0.23,243,37358
+Phebe N. Novakovic ,General Dynamics ,Industrials,GD,20.720254,-0.02,240,36193
+Wesley G. Bush ,Northrop Grumman ,Industrials,NOC,17.261091,0.07,230,30095
+Michael S. Burke ,Aecom ,Industrials,ACM,15.666319,-0.06,200,20156
+Marillyn A. Hewson ,Lockheed Martin ,Industrials,LMT,21.516545,0.07,191,53762
+Dennis A. Muilenburg ,Boeing ,Industrials,BA,23.392187,0.38,184,101127
+David T. Seaton ,Fluor ,Industrials,FLR,12.673601,0.24,180,19167
+Mark T. Mondello ,Jabil ,Technology,JBL,11.396365,-0.04,2238,22095
+Stephen D. Milligan ,Western Digital ,Technology,WDC,17.121474,-0.04,1795,20647
+Pierre Nanterme ,Accenture ,Technology,ACN,22.299174,0.13,1222,41603
+Mark V. Hurd ,Oracle ,Technology,ORCL,108.295023,1.65,1205,39831
+Safra A. Catz ,Oracle ,Technology,ORCL,108.282333,1.66,1205,39831
+Virginia M. Rometty ,IBM ,Technology,IBM,17.552218,-0.03,319,79591
+Tim D. Cook ,Apple ,Technology,AAPL,15.682219,0.22,283,265595
+Michael J. Long ,Arrow Electronics ,Technology,ARW,15.339932,0.67,281,29677
+Sanjay Mehrotra ,Micron Technology ,Technology,MU,14.241583,n/a,252,30391
+Steven Mollenkopf ,Qualcomm ,Technology,QCOM,19.975472,0.72,233,22732
+Antonio F. Neri ,Hewlett Packard Enterprise ,Technology,HPE,12.621288,n/a,192,30852
+Charles H. Robbins ,Cisco Systems ,Technology,CSCO,21.284339,0.27,160,49330
+Satya Nadella ,Microsoft ,Technology,MSFT,25.843263,0.29,154,110360
+William J. Amelio ,Avnet ,Technology,AVT,7.129757,n/a,136,19037
+Hock E. Tan ,Broadcom ,Technology,AVGO,5.042937,-0.95,25,20848
+Christopher M. Crane ,Exelon ,Utilities ,EXC,13.908491,0.04,126,35985
+Lynn J. Good ,Duke Energy ,Utilities ,DUK,13.794367,-0.35,119,24521

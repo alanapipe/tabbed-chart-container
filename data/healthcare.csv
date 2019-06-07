@@ -1,0 +1,17 @@
+﻿name,company,seriesColor,ticker,radialColumn,change,xAxisColumn,yAxisColumn,
+Michael F. Neidorff ,Centene ,Healthcare,CNC,26.1,0.03,396,60.1,60116
+R. Milton Johnson ,HCA Healthcare ,Healthcare,HCA,20.1,0.46,383,46.7,46677
+Miles D. White ,Abbott Laboratories ,Healthcare,ABT,22.9,0.46,301,30.6,30578
+David M. Cordani ,Cigna ,Healthcare,CI,18.9,0.08,298,48.7,48650
+Ron Rittenmeyer ,Tenet Healthcare ,Healthcare,THC,15.0,n/a,277,18.3,18313
+Alex Gorsky ,Johnson & Johnson ,Healthcare,JNJ,20.1,-0.12,268,81.6,81581
+Ian Read ,Pfizer ,Healthcare,PFE,19.5,-0.25,244,53.6,53647
+Joseph M. Zubretsky ,Molina Healthcare ,Healthcare,MOH,15.2,n/a,232,18.9,18890
+Bruce D. Broussard ,Humana ,Healthcare,HUM,16.3,0.1,231,56.9,56912
+Michael C. Kaufmann ,Cardinal Health ,Healthcare,CAH,8.4,n/a,221,136.8,136809
+Thomas P. Joyce Jr ,Danaher ,Healthcare,DHR,15.4,0.04,209,19.9,19893
+Steven H. Collis ,AmerisourceBergen ,Healthcare,ABC,11.5,0.16,203,167.9,167940
+Gail K. Boudreaux ,Anthem ,Healthcare,ANTM,14.2,n/a,196,92.1,92105
+David A. Ricks ,Eli Lilly ,Healthcare,LLY,15.7,0.08,189,24.6,24556
+John F. Milligan ,Gilead Sciences ,Healthcare,GILD,16.8,0.09,158,22.1,22127
+Richard A. Gonzalez ,AbbVie ,Healthcare,ABBV,20.8,0.09,143,32.8,32753

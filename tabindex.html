@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <!-- link to version 4 of d3 -->
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+
+
+  <!-- instead of stylesheets -->
+  <link rel='stylesheet' href="https://use.typekit.net/ckg7yjc.css">
+
+  <link rel='stylesheet' href="tab-styles.css">
+  <link rel='stylesheet' href="ff-stylesheet-ap.css">
+</head>
+
+<body>
+<!-- Anything that goes above the tabs goes here -->
+<div class='headline-style'>CEO Pay Ranges
+</div>
+<div class='subhed-style'>Below is the total CEO compensation for the largest companies by revenue. Hover for details.</div>
+
+
+
+<!-- Tab links -->
+<div id="cyclicals" class="tabcontent">
+  <div class='categoryhead-style'>Consumer cyclicals
+  </div>
+</div>
+
+<div id="technology" class="tabcontent">
+
+  <div class='categoryhead-style'>Technology
+  </div>
+</div>
+
+<div id="defensive" class="tabcontent">
+  <div class='categoryhead-style'>Consumer defensive
+  </div>
+</div>
+
+<div id="energy" class="tabcontent">
+  <div class='categoryhead-style'>Energy
+  </div>
+</div>
+
+<div id="financials" class="tabcontent">
+  <div class='categoryhead-style'>Financials
+  </div>
+</div>
+
+<div id="healthcare" class="tabcontent">
+  <div class='categoryhead-style'>Health care
+  </div>
+</div>
+
+<div id="industrials" class="tabcontent">
+  <div class='categoryhead-style'>Industrials
+  </div>
+</div>
+
+<div id="other" class="tabcontent">
+  <div class='categoryhead-style'>Other sectors
+  </div>
+</div>
+
+<!-- Can move the buttons by moving up this chuck of code above or below the tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'cyclicals')" id="defaultOpen">Consumer cyclical</button>
+  <button class="tablinks" onclick="openCity(event, 'technology')">Technology</button>
+  <button class="tablinks" onclick="openCity(event, 'defensive')">Consumer defensive</button>
+  <button class="tablinks" onclick="openCity(event, 'energy')">Energy</button>
+  <button class="tablinks" onclick="openCity(event, 'financials')">Financial services</button>
+  <button class="tablinks" onclick="openCity(event, 'healthcare')">Health care</button>
+  <button class="tablinks" onclick="openCity(event, 'industrials')">Industrials</button>
+  <button class="tablinks" onclick="openCity(event, 'other')">Other sectors</button>
+</div>
+
+<!-- Any content that goes below the tabs goes here -->
+<script src="tabs.js"></script>
+<script src="charts.js"></script>
+
+</body>

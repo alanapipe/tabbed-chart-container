@@ -1,0 +1,28 @@
+﻿name,company,seriesColor,ticker,radialColumn,change,xAxisColumn,yAxisColumn,
+Daniel P. Amos ,Aflac ,Financial Services,AFL,15.4,-0.06,332,21.8,21758
+Stephen J. Squeri ,American Express ,Financial Services,AXP,17.3,n/a,306,37,36986
+Timothy J. Sloan ,Wells Fargo ,Financial Services,WFC,18.4,0.05,283,84.7,84696
+Charles F. Lowrey ,Prudential Financial ,Financial Services,PRU,9.7,n/a,256,63,62992
+Brian T. Moynihan ,Bank of America ,Financial Services,BAC,22.4,0.05,247,88.7,88694
+Andrew Cecere ,US Bancorp ,Financial Services,USB,11.1,n/a,230,20.8,20813
+Susan P. Griffith ,Progressive ,Financial Services,PGR,14.2,0.53,225,32,31979
+David M. Solomon ,Goldman Sachs ,Financial Services,GS,20.7,n/a,151,35.9,35942
+Alfred Kelly ,Visa ,Financial Services,V,19.5,n/a,147,20.6,20609
+Warren E. Buffett ,Berkshire Hathaway ,Financial Services,BRK.A,0.4,-1.8,7,247.5,247537
+Michael L. Corbat ,Citigroup ,Financials,C,24.2,0.36,486,65.5,65500
+Richard D. Fairbank ,Capital One Financial ,Financials,COF,17.3,0.07,258,22.2,22220
+,,,,,,,,
+,,,,,,,,
+CEO,company,ticker,salary,change '17,pay ratio- CEO to median employee,,,
+Daniel P. Amos ,Aflac ,AFL,15.4,-0.06,332,,,
+Stephen J. Squeri ,American Express ,AXP,17.3,n/a,306,,,
+Timothy J. Sloan ,Wells Fargo ,WFC,18.4,0.05,283,,,
+Charles F. Lowrey ,Prudential Financial ,PRU,9.7,n/a,256,,,
+Brian T. Moynihan ,Bank of America ,BAC,22.4,0.05,247,,,
+Andrew Cecere ,US Bancorp ,USB,11.1,n/a,230,,,
+Susan P. Griffith ,Progressive ,PGR,14.2,0.53,225,,,
+David M. Solomon ,Goldman Sachs ,GS,20.7,n/a,151,,,
+Alfred Kelly ,Visa ,V,19.5,n/a,147,,,
+Warren E. Buffett ,Berkshire Hathaway ,BRK.A,0.4,-1.8,7,,,
+Michael L. Corbat ,Citigroup ,C,24.2,0.36,486,,,
+Richard D. Fairbank ,Capital One Financial ,COF,17.3,0.07,258,,,

@@ -1,0 +1,16 @@
+﻿name,company,seriesColor,ticker,radialColumn,change,xAxisColumn,yAxisColumn,
+Mark T. Mondello ,Jabil ,Technology,JBL,11.4,-0.04,2238,22.1,22095
+Stephen D. Milligan ,Western Digital ,Technology,WDC,17.1,-0.04,1795,20.6,20647
+Pierre Nanterme ,Accenture ,Technology,ACN,22.3,0.13,1222,41.6,41603
+Mark V. Hurd ,Oracle ,Technology,ORCL,108.3,1.65,1205,39.8,39831
+Safra A. Catz ,Oracle ,Technology,ORCL,108.3,1.66,1205,39.8,39831
+Virginia M. Rometty ,IBM ,Technology,IBM,17.6,-0.03,319,79.6,79591
+Tim D. Cook ,Apple ,Technology,AAPL,15.7,0.22,283,265.6,265595
+Michael J. Long ,Arrow Electronics ,Technology,ARW,15.3,0.67,281,29.7,29677
+Sanjay Mehrotra ,Micron Technology ,Technology,MU,14.2,n/a,252,30.4,30391
+Steven Mollenkopf ,Qualcomm ,Technology,QCOM,20.0,0.72,233,22.7,22732
+Antonio F. Neri ,Hewlett Packard Enterprise ,Technology,HPE,12.6,n/a,192,30.9,30852
+Charles H. Robbins ,Cisco Systems ,Technology,CSCO,21.3,0.27,160,49.3,49330
+Satya Nadella ,Microsoft ,Technology,MSFT,25.8,0.29,154,110.4,110360
+William J. Amelio ,Avnet ,Technology,AVT,7.1,n/a,136,19.0,19037
+Hock E. Tan ,Broadcom ,Technology,AVGO,5.0,-0.95,25,20.8,20848

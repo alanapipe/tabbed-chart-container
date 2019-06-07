@@ -1,0 +1,7 @@
+﻿name,company,seriesColor,ticker,radialColumn,change,xAxisColumn,yAxisColumn,
+John J. Ferriola ,Nucor ,Basic Materials,NUE,15.6,0.29,147,25.067,25067
+Randall L. Stephenson ,AT&T ,Communication Services,T,25.6,0.01,304,170.756,170756
+Hans Vestberg ,Verizon Communications ,Communication Services,VZ,22.2,n/a,198,130.863,130863
+Thomas M. Rutledge ,Charter Communications ,Communication Services,CHTR,8.2,0.06,147,43.634,43634
+Christopher M. Crane ,Exelon ,Utilities ,EXC,13.9,0.04,126,35.985,35985
+Lynn J. Good ,Duke Energy ,Utilities ,DUK,13.8,-0.35,119,24.521,24521
